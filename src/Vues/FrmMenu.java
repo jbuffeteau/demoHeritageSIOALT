@@ -23,6 +23,11 @@ public class FrmMenu extends JFrame{
         this.pack();
         this.setLocationRelativeTo(null);
 
+///
+
+        int i  = 12;
+        String nom = "";
+
 
         //
         //
